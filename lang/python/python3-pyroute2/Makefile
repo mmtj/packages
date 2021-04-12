@@ -8,7 +8,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=python3-pyroute2
-PKG_VERSION:=0.5.16
+PKG_VERSION:=0.5.18
 PKG_RELEASE:=1
 
 PYPI_NAME:=pyroute2
